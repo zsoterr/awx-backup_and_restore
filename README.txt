@@ -4,10 +4,7 @@ Backup and restore database of AWX
 this is a draft how-to-guide, I am going to separate and upload the scripts.
 ----
 
-
 AWX – Backup and restore plan
-Read in:
-English
 
 The goal:
 Backup and restore the awx: We wil focus only on the database of awx. This is the most important in our case.
