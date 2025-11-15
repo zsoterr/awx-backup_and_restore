@@ -1,3 +1,6 @@
+# This repository is archived and not actively maintained. The content may still be useful as a reference
+----------------
+
 # awx-backup_and_restore
 Backup and restore database of AWX
 ----
